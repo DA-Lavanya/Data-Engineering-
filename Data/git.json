@@ -1,0 +1,49 @@
+[
+  
+  {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering-/refs/heads/main/Data/AdventureWorks_Returns.csv",
+	  "p_filename_sink": "AdventureWorks_Returns.csv",
+	  "p_directory_url": "AdventureWorks_Returns"
+  },
+  {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering-/refs/heads/main/Data/AdventureWorks_Customers.csv",
+	  "p_filename_sink": "AdventureWorks_Customers.csv",
+	  "p_directory_url": "AdventureWorks_Customers"
+  },
+ {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering-/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+	  "p_filename_sink": "AdventureWorks_Sales_2015.csv",
+	  "p_directory_url": "AdventureWorks_Sales_2015"
+  },
+  {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+	  "p_filename_sink": "AdventureWorks_Calendar.csv",
+	  "p_directory_url": "AdventureWorks_Calendar"
+  },
+    {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+	  "p_filename_sink": "AdventureWorks_Product_Categories.csv",
+	  "p_directory_url": "AdventureWorks_Product_Categories"
+  },
+ {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+	  "p_filename_sink": "AdventureWorks_Product_Subcategories.csv",
+	  "p_directory_url": "AdventureWorks_Product_Subcategories"
+  },
+  {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+	  "p_filename_sink": "AdventureWorks_Sales_2016.csv",
+	  "p_directory_url": "AdventureWorks_Sales_2016"
+  },
+    {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+	  "p_filename_sink": "AdventureWorks_Sales_2017.csv",
+	  "p_directory_url": "AdventureWorks_Sales_2017"
+  },
+ {
+	  "p_relative_url" : "DA-Lavanya/Data-Engineering/refs/heads/main/Data/AdventureWorks_Territories.csv",
+	  "p_filename_sink": "AdventureWorks_Territories.csv",
+	  "p_directory_url": "AdventureWorks_Territories"
+  }
+
+]
