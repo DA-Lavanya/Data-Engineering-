@@ -48,7 +48,8 @@
   {
 	  "p_relative_url" : "DA-Lavanya/Data-Engineering/refs/heads/main/Data/AdventureWorks_Products.csv",
 	  "p_filename_sink": "AdventureWorks_Products.csv",
-	  "p_directory_url": "AdventureWorks_Products.csv"
+	  "p_directory_url": "AdventureWorks_Products"
   }
 
 ]
+
